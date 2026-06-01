@@ -1,5 +1,7 @@
-![preview.gif](preview.gif)
-![hero-glow.svg](hero-glow.svg)
+<table width="100%" background="preview.gif" style="background-size: cover; background-position: center;">
+  <tr><td align="center" style="padding: 20px;">
+    
+<img src="hero-glow.svg" width="100%" style="mix-blend-mode: screen;">
 
 <p align="center">
   <a href="https://sunguoqi.com/">
@@ -42,3 +44,7 @@
     <img src="https://raw.githubusercontent.com/muze66/sponsors/main/sponsors.wide.svg" />
   </a>
 </p>
+
+</td>
+</tr>
+</table>
