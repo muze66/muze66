@@ -1,9 +1,6 @@
-<!-- 全局背景容器：preview.gif 作为背景 + hero-glow.svg 光晕修饰 -->
-<table width="100%" cellpadding="0" cellspacing="0" border="0" style="background: url('preview.gif') center/cover no-repeat; border-radius: 0; margin: 0; padding: 0;">
-  <tr>
-    <td align="center" style="background: url('hero-glow.svg') center/cover no-repeat; background-blend-mode: overlay;">
+![preview.gif](preview.gif)
+![hero-glow.svg](hero-glow.svg)
 
-<!-- 原始内容开始（完全未改动） -->
 <p align="center">
   <a href="https://sunguoqi.com/">
   https://readme-typing-svg.demolab.com/
@@ -45,8 +42,3 @@
     <img src="https://raw.githubusercontent.com/muze66/sponsors/main/sponsors.wide.svg" />
   </a>
 </p>
-<!-- 原始内容结束 -->
-
-    </td>
-  </tr>
-</table>
